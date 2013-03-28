@@ -1,0 +1,4 @@
+purecpp
+moc_*.cpp
+*.o
+
